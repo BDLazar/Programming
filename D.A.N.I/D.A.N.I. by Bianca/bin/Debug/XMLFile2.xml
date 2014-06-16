@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <link>
+    <id>2</id>
+    <id_link>3</id_link>
+    <link_count>1</link_count>
+  </link>
+  <link>
+    <id>3</id>
+    <id_link>4</id_link>
+    <link_count>1</link_count>
+  </link>
+</root>

@@ -1,0 +1,29 @@
+c:\users\smd\documents\visual studio 2010\Projects\D.A.N.I. by Bianca\D.A.N.I. by Bianca\bin\Debug\D.A.N.I.by_Bianca.exe.config
+c:\users\smd\documents\visual studio 2010\Projects\D.A.N.I. by Bianca\D.A.N.I. by Bianca\bin\Debug\D.A.N.I.by_Bianca.exe
+c:\users\smd\documents\visual studio 2010\Projects\D.A.N.I. by Bianca\D.A.N.I. by Bianca\bin\Debug\D.A.N.I.by_Bianca.pdb
+c:\users\smd\documents\visual studio 2010\Projects\D.A.N.I. by Bianca\D.A.N.I. by Bianca\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\smd\documents\visual studio 2010\Projects\D.A.N.I. by Bianca\D.A.N.I. by Bianca\obj\x86\Debug\D.A.N.I.by_Bianca.Form1.resources
+c:\users\smd\documents\visual studio 2010\Projects\D.A.N.I. by Bianca\D.A.N.I. by Bianca\obj\x86\Debug\D.A.N.I.by_Bianca.Properties.Resources.resources
+c:\users\smd\documents\visual studio 2010\Projects\D.A.N.I. by Bianca\D.A.N.I. by Bianca\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\smd\documents\visual studio 2010\Projects\D.A.N.I. by Bianca\D.A.N.I. by Bianca\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\smd\documents\visual studio 2010\Projects\D.A.N.I. by Bianca\D.A.N.I. by Bianca\obj\x86\Debug\D.A.N.I.by_Bianca.exe
+c:\users\smd\documents\visual studio 2010\Projects\D.A.N.I. by Bianca\D.A.N.I. by Bianca\obj\x86\Debug\D.A.N.I.by_Bianca.pdb
+C:\Users\Lazar\Desktop\Modules\OOP\Assignment\D.A.N.I. by Bianca\D.A.N.I. by Bianca\bin\Debug\D.A.N.I.by_Bianca.exe.config
+C:\Users\Lazar\Desktop\Modules\OOP\Assignment\D.A.N.I. by Bianca\D.A.N.I. by Bianca\obj\x86\Debug\D.A.N.I.by_Bianca.exe
+C:\Users\Lazar\Desktop\Modules\OOP\Assignment\D.A.N.I. by Bianca\D.A.N.I. by Bianca\obj\x86\Debug\D.A.N.I.by_Bianca.pdb
+C:\Users\Lazar\Desktop\Modules\OOP\Assignment\D.A.N.I. by Bianca\D.A.N.I. by Bianca\bin\Debug\D.A.N.I.by_Bianca.exe
+C:\Users\Lazar\Desktop\Modules\OOP\Assignment\D.A.N.I. by Bianca\D.A.N.I. by Bianca\bin\Debug\D.A.N.I.by_Bianca.pdb
+C:\Users\Lazar\Desktop\Modules\OOP\Assignment\D.A.N.I. by Bianca\D.A.N.I. by Bianca\obj\x86\Debug\D.A.N.I. by Bianca.csprojResolveAssemblyReference.cache
+C:\Users\Lazar\Desktop\Modules\OOP\Assignment\D.A.N.I. by Bianca\D.A.N.I. by Bianca\obj\x86\Debug\D.A.N.I.by_Bianca.Form1.resources
+C:\Users\Lazar\Desktop\Modules\OOP\Assignment\D.A.N.I. by Bianca\D.A.N.I. by Bianca\obj\x86\Debug\D.A.N.I.by_Bianca.Properties.Resources.resources
+C:\Users\Lazar\Desktop\Modules\OOP\Assignment\D.A.N.I. by Bianca\D.A.N.I. by Bianca\obj\x86\Debug\D.A.N.I. by Bianca.csproj.GenerateResource.Cache
+F:\OOP\D.A.N.I. by Bianca\D.A.N.I. by Bianca\bin\Debug\D.A.N.I.by_Bianca.exe.config
+F:\OOP\D.A.N.I. by Bianca\D.A.N.I. by Bianca\obj\x86\Debug\D.A.N.I.by_Bianca.exe
+F:\OOP\D.A.N.I. by Bianca\D.A.N.I. by Bianca\obj\x86\Debug\D.A.N.I.by_Bianca.pdb
+F:\OOP\D.A.N.I. by Bianca\D.A.N.I. by Bianca\bin\Debug\D.A.N.I.by_Bianca.exe
+F:\OOP\D.A.N.I. by Bianca\D.A.N.I. by Bianca\bin\Debug\D.A.N.I.by_Bianca.pdb
+F:\OOP\D.A.N.I. by Bianca\D.A.N.I. by Bianca\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\OOP\D.A.N.I. by Bianca\D.A.N.I. by Bianca\obj\x86\Debug\D.A.N.I.by_Bianca.Form1.resources
+F:\OOP\D.A.N.I. by Bianca\D.A.N.I. by Bianca\obj\x86\Debug\D.A.N.I.by_Bianca.Properties.Resources.resources
+F:\OOP\D.A.N.I. by Bianca\D.A.N.I. by Bianca\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\OOP\D.A.N.I. by Bianca\D.A.N.I. by Bianca\obj\x86\Debug\GenerateResource.write.1.tlog
